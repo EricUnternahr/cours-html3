@@ -1,0 +1,36 @@
+h1 {
+    color: red;
+    text-align: center;
+    font-size: xx-large;
+}
+
+h2 {
+    color: blue;
+    font-size: x-large;
+}
+
+.gris {
+   background-color:grey;
+}
+
+strong{
+    font-weight: normal;
+    color:greenyellow;
+}
+
+em{
+    text-decoration: underline; 
+    font-size: larger; 
+    color: orange; 
+    font-style: normal;
+}
+
+.rose {
+    background-color: pink;
+}
+
+.Art2 {
+    color:green;
+    text-align: right;
+    text-decoration: underline;
+}
